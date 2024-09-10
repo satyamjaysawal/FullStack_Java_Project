@@ -1,4 +1,4 @@
-## Tech Stack 
+## FullStack :: Tech Stack 
 
 **Frontend:**
 
