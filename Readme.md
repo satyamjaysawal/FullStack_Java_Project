@@ -1,5 +1,7 @@
 ## Tech Stack 
+
 **Frontend:**
+
 ReactJS
 
 Vite (Build tool for React)
@@ -25,6 +27,7 @@ HikariCP (Connection Pool)
 
 
 ## Running the Application
+
 **Running Backend**
 
 Navigate to the backend folder:
